@@ -1,0 +1,3 @@
+mais um teste de versionamento GIT.
+
+Foi tão simples que não acreditei.  Estou criando uma nova versão do txt.
