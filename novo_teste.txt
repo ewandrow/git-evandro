@@ -1,2 +1,4 @@
 Novo teste do GIT
 Update via VS Code.
+
+Clonando o diretório "comitado" no GitHub.
